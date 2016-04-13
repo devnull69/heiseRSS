@@ -10,5 +10,5 @@
    "manifest_version": 2,
    "name": "heise Newsticker",
    "permissions": [ "http://www.heise.de/newsticker*", "http://heise.de.feedsportal.com/c/35207/f/653902/index.rss" ],
-   "version": "1.1"
+   "version": "1.2"
 }
