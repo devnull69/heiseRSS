@@ -1,0 +1,14 @@
+{
+   "browser_action": {
+      "default_icon": "logo.png",
+      "default_popup": "popup.html"
+   },
+   "description": "Der RSS-Feed des heise Newstickers.",
+   "icons": {
+      "128": "logo128.png"
+   },
+   "manifest_version": 2,
+   "name": "heise Newsticker",
+   "permissions": [ "http://www.heise.de/newsticker*", "http://heise.de.feedsportal.com/c/35207/f/653902/index.rss" ],
+   "version": "1.1"
+}
