@@ -14,7 +14,7 @@ $(document).ready(function() {
 function fetch_feed() {
         console.log("starting");
         $('#ziel').html("fetching...");
-        fetch_feed_request('http://www.heise.de/newsticker/heise.rdf');
+        fetch_feed_request('https://www.heise.de/newsticker/heise.rdf');
 }
 
 function fetch_feed_request(url) {
